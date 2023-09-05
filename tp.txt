@@ -1,0 +1,20 @@
+A nous deux LIn
+
+sudo apt install apt-transport-https ca-certificates curl software-properties-common
+
+https://news.gandi.net/fr/2020/08/comment-rendre-son-site-responsive/
+https://www.pierre-giraud.com/html-css-apprendre-coder-cours/media-queries-responsive-design/
+https://developer.mozilla.org/fr/docs/Web/CSS/Pseudo-classes
+https://www.codeur.com/tuto/css/selecteurs-css/
+https://developer.mozilla.org/fr/docs/Web/JavaScript
+https://wheelofnames.com/
+https://textgen.eland.cc/notes/create
+https://uiverse.io/Nawsome/fresh-panther-41
+https://uiverse.io/challenges
+https://imgur.com/
+https://colorlib.com/wp/bootstrap-slider/
+https://kenwheeler.github.io/
+https://www.remove.bg/fr/upload
+http://www.monsieurcaillou.com/#!/
+
+defer permet de dire au code de ne charger le script qu'à la fin

@@ -1,0 +1,62 @@
+
+@media screen and (min-width:1200px) and (max-width:1500px){
+  /* Menu afficher sans aucune contrainte. 
+    Les éléments affichés 4 4. On fait max-width, margin:0 auto; overflow-x pour cacher les débordement sur l'horizontal
+  */
+}
+
+@media screen and (min-width:992px) and (max-width:1199px){
+  /* Menu afficher mais avec font-size des lien réduits. 
+    Les éléments affichés 4 4. On fait overflow-x pour cacher les débordement sur l'horizontal
+  */
+}
+
+@media screen and (min-width:768px) and (max-width:991px){
+  /* Menu hamburger. CTA affiché avec plus de marges et de padding.Plus espacé.
+    Les petits éléments sont affichés deux à deux mais les plus grands un à un avec une position centrer.
+    Les images super grandes sont omis. max-width pour bien ordonner.
+    */
+
+}
+
+@media screen and (min-width:576px) and (max-width:767px) {
+
+/* Menu hamburger. CTA affiché avec plus de marges et de padding.Plus espacé.
+    Les petits éléments sont affichés deux à deux mais les plus grands un à un avec une position centrer.
+    Les images super grandes sont omis. max-width pour bien ordonner.
+    */
+
+}
+
+@media screen and (max-width:575px){
+
+    /* Menu hamburger. CTA dans le menu caché
+    Les éléments sont affichés un à un avec une position centrer.
+    Les images super grandes sont omis.
+    */
+    body{
+        max-width:576px;
+        margin:auto;
+    }
+    header{
+        height:auto;
+        display: block;
+    }
+    .logo-content{
+        width: 200px;
+        height: 200px;
+        margin: 0 auto;
+      }
+
+    .cta{
+        display: none;
+    }
+    .menu{
+       margin:0 auto;
+    }
+    
+    .menu li{
+       display: block;
+       padding-bottom:14px;
+    }
+}
